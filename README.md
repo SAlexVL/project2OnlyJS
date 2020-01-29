@@ -1,2 +1,1 @@
-# project2OnlyJS
-VanillaJS
+# eduJS2
